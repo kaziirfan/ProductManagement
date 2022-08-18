@@ -1,0 +1,6 @@
+Product ID: 2001
+Product Category: Smartphone
+Product Name: Redmi 6 Pro
+Buyer Name: Kazi Irfanul Karim
+Buyer ID: 213094
+Price: 10200

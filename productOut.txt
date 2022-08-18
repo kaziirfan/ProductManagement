@@ -1,0 +1,3 @@
+Product ID: 2001
+Product Category: Smartphone
+Product Name: Redmi 6 Pro
