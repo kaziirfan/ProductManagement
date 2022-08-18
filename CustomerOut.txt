@@ -1,0 +1,6 @@
+Product ID: 2001
+Product Category: Smartphone
+Product Name: Redmi 6 Pro
+Customer Name: Shehab Rakib
+Customer ID: 213078
+Sold Price: 10500
